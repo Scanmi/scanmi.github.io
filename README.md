@@ -1,2 +1,0 @@
-# scanmi.github.io
-test
